@@ -28,3 +28,8 @@ The United Nations Statistics Division: The United Nations Statistics Division i
 Internet World Stats
 AI for Earth, Microsoft
 The Humanitarian Data Exchange: Find, share and use humanitarian data all in one place
+
+# Marine
+Global Fishing Watch: Global Fishing Watch is promoting ocean sustainability through greater transparency. We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
+Global Ocean Observing System: The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
+Sea around us: We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
