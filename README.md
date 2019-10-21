@@ -30,12 +30,12 @@
 * [The Humanitarian Data Exchange:](https://data.humdata.org/) Find, share and use humanitarian data all in one place
 
 # Marine
-Global Fishing Watch: Global Fishing Watch is promoting ocean sustainability through greater transparency. We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
-Global Ocean Observing System: The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
-Sea around us: We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
+* [Global Fishing Watch:](https://globalfishingwatch.org/) Global Fishing Watch is promoting ocean sustainability through greater transparency. We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
+* [Global Ocean Observing System:](http://www.goosocean.org/) The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
+* [Sea around us:](http://www.seaaroundus.org/) We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
 
 # Citizen Science Platforms
-eBird: eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world
-iNaturalist: INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
-Zooniverse: The Zooniverse enables everyone to take part in real cutting edge research in many fields across the sciences, humanities, and more. The Zooniverse creates opportunities for you to unlock answers and contribute to real discoveries.
-Wikipedia List of Citizen Science Platforms
+* [eBird:](https://ebird.org/home) eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world
+* [iNaturalist:](https://www.inaturalist.org/) INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
+* [Zooniverse:](https://www.zooniverse.org/) The Zooniverse enables everyone to take part in real cutting edge research in many fields across the sciences, humanities, and more. The Zooniverse creates opportunities for you to unlock answers and contribute to real discoveries.
+* [Wikipedia List of Citizen Science Platforms](https://en.wikipedia.org/wiki/List_of_citizen_science_projects)
