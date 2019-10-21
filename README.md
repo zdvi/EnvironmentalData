@@ -5,8 +5,8 @@
 * [Opendatasoft:](https://www.opendatasoft.com/) Comprehensive list of 2600+ Open Data portals around the world
 * [Trends Earth:](http://trends.earth/docs/en/index.html) is a platform from Conservation International for monitoring land change using earth observations in a desktop and cloud-based system
 * [Department of the Environment and Energy, Australian Government:](http://www.environment.gov.au/about-us/environmental-information-data/open-data) The Department designs and implements Australian Government policy and programs to protect and conserve the environment, water and heritage, promote climate action, and provide adequate, reliable and affordable energy
-* [UN Global Platform for Official Statistics]
-UK's Natural Environment Research Council data catalogue
+* [UN Global Platform for Official Statistics](https://marketplace.officialstatistics.org/)
+* [UK's Natural Environment Research Council data catalogue]
 EPA Ireland’s Environmental Open Data Portal
 Nature's Scientific Data: Scientific Data is a peer-reviewed, open-access journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data.
 GeoPlatform Data Resources: The OMB A–16 National Geospatial Data Asset (NGDA) Portfolio is organized into 17 NGDA Themes made up of one or more associated NGDA Datasets
