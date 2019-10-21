@@ -39,3 +39,18 @@
 * [iNaturalist:](https://www.inaturalist.org/) INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
 * [Zooniverse:](https://www.zooniverse.org/) The Zooniverse enables everyone to take part in real cutting edge research in many fields across the sciences, humanities, and more. The Zooniverse creates opportunities for you to unlock answers and contribute to real discoveries.
 * [Wikipedia List of Citizen Science Platforms](https://en.wikipedia.org/wiki/List_of_citizen_science_projects)
+
+# Tracking UN's Sustainable Development Goals
+* [Global Pulse Labs:](https://www.unglobalpulse.org/pulse-labs) Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
+* [Datatopics by Worldbank](http://datatopics.worldbank.org/sdgatlas/SDG-01-no-poverty.html)
+* [SDG Index and Dashboards](https://dashboards.sdgindex.org/#/)
+* [UN Stats SDGs:](https://unstats.un.org/sdgs/indicators/database) This platform provides access to data compiled through the UN System in preparation for the Secretary-General's annual report on "Progress towards the Sustainable Development Goals"
+* [Climate Watch Data:](https://www.climatewatchdata.org/ndcs-sdg) Identify potential alignment between the targets, actions, policy measures and needs in countries' Nationally Determined Contributions (NDCs) and the targets of the Sustainable Development Goals (SDGs)
+* [Environment Situation Room](https://environmentlive.unep.org/wesr/)
+* [Data4SDGs:](http://www.data4sdgs.org/) The Global Partnership for Sustainable Development Data is a global network bringing together governments, the private sector, and civil society organizations dedicated to using the data revolution to achieve the Sustainable Development Goals.
+* [Global Sustainability Reporting Data:](https://database.globalreporting.org/) The Search area provides users access to all types of sustainability reports, whether GRI-based or otherwise, and relevant information related to the reporting organizations
+* [UN Global Pulse:](https://www.unglobalpulse.org/) UN Global Pulse is an innovation initiative of the United Nations to harness big data, artificial intelligence and other emerging technologies for sustainable development and humanitarian action
+* [Environmental Democracy Index:](https://environmentaldemocracyindex.org/map#all) The Environmental Democracy Index was developed by The Access Initiative (TAI) and World Resources Institute (WRI) in collaboration with partners around the world. The index evaluates 70 countries, across 75 legal indicators, based on objective and internationally recognized standards established by the United Nations Environment Programme’s (UNEP) Bali Guidelines.
+* [Ireland's Sustainable Development Goals National Implementation Plan 2018-2020](https://irelandsdg.geohive.ie/)
+* [UK data for Sustainable Development Goal indicators](https://sustainabledevelopment-uk.github.io/)
+* [U.S. National Statistics for the U.N. Sustainable Development Goals](https://sdg.data.gov/)
