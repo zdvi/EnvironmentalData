@@ -34,6 +34,20 @@
 * [Global Ocean Observing System:](http://www.goosocean.org/) The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
 * [Sea around us:](http://www.seaaroundus.org/) We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
 
+# Biodiversity & Ecology
+Global Biodiversity Information Facility (GBIF): Free and open access to biodiversity data from 43k databases
+Biodiversity Indicators Partnership (BIP): Access biodiversity indicator data by country
+Wikipedia List of biodiversity databases
+UN Biodiversity Lab
+UN Environment World Conservation Monitoring Centre (UNEP-WCMC): The UN Environment World Conservation Monitoring Centre (UNEP-WCMC) works with scientists and policy makers worldwide to place biodiversity at the heart of environment and development decision-making to enable enlightened choices for people and the planet. 
+IUCN Red List of Threatened Species
+IUCN Red List of Ecosystems
+Map of Life (MOL): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
+Nature Map Earth: Nature Map Earth is developing an integrated global map of biodiversity, carbon storage, and other dimensions of nature by consolidating and crowd-sourcing data from many sources.
+Movebank: Movebank is a free, online database of animal tracking data hosted by the Max Planck Institute for Ornithology. We help animal tracking researchers to manage, share, protect, analyze, and archive their data. The animal tracking data in Movebank belongs to researchers all over the world who choose whether and how to share their data with the public.
+Macaulay Library, Cornell Lab of Ornithology): The Macaulay Library is the world’s premier scientific archive of natural history audio, video, and photographs. Although the Macaulay Library’s history is rooted in birds, the collection includes amphibians, fishes, and mammals, and the collection preserves recordings of each species’ behavior and natural history.
+UK's Center for Ecology and Hydrology data: The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue
+
 # Citizen Science Platforms
 * [eBird:](https://ebird.org/home) eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world
 * [iNaturalist:](https://www.inaturalist.org/) INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
